@@ -4,12 +4,17 @@ This is a simple React Redux application for managing user information. Users ca
 
 ## Table of Contents
 
+- [Demo](#Demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+  
+## Demo
+
+![Extension Screenshot](Screenshot.png)
 
 ## Features
 
