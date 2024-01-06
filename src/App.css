@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  height: 100vh;
+  overflow: scroll;
+  margin: auto;
+  padding: 20px 0;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+
+}
+body {
+  background: #1a2a6c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  height: 100vh;
+  overflow: hidden;
+  margin:0;
+}
+
+.displayUsers div {
+  width: 400px;
+  height: 150px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(45, 67, 35, 0.1), 0 6px 20px 0 rgba(77, 91, 41, 
+  0.19);
+  text-align: center;
+  background: #fdbb2d;
+}
+  
